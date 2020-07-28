@@ -27,5 +27,5 @@ class Perceptron(object):
                 self.weights[1:] += self.learning_rate * (label - prediction) * inputs
                 self.weights[0] += self.learning_rate * (label - prediction)
             
-            print("Weights after "+str(_)+" iteration " + str(self.weights))
+            print("Weights after "+str(_ + 1)+" iteration " + str(self.weights))
             

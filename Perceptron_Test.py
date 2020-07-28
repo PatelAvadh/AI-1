@@ -18,16 +18,16 @@ print("For input "+str(inputs)+" prediction is "+str(perceptron.predict(inputs))
 
 '''
 Weights before training [0. 0. 0.]
-Weights after 0 iteration [-0.01  0.    0.  ]
-Weights after 1 iteration [-0.01  0.    0.01]
-Weights after 2 iteration [-0.02  0.    0.01]
-Weights after 3 iteration [-0.02  0.01  0.01]
-Weights after 4 iteration [-0.02  0.01  0.02]
+Weights after 1 iteration [-0.01  0.    0.  ]
+Weights after 2 iteration [-0.01  0.    0.01]
+Weights after 3 iteration [-0.02  0.    0.01]
+Weights after 4 iteration [-0.02  0.01  0.01]
 Weights after 5 iteration [-0.02  0.01  0.02]
 Weights after 6 iteration [-0.02  0.01  0.02]
 Weights after 7 iteration [-0.02  0.01  0.02]
 Weights after 8 iteration [-0.02  0.01  0.02]
 Weights after 9 iteration [-0.02  0.01  0.02]
+Weights after 10 iteration [-0.02  0.01  0.02]
 For input [1 0] prediction is 0
 
 '''
